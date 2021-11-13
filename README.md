@@ -1,0 +1,2 @@
+# pylib-jaredtokuz
+python shortcuts
