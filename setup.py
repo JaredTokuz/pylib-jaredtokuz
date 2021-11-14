@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pylibjaredtokuz",
-    version="0.0.4",
+    version="0.0.41",
     author="Jared Tokuz",
     author_email="jtokuz@gmail.com",
     description="Installation of Package",
