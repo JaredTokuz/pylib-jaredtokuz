@@ -17,5 +17,5 @@ setuptools.setup(
     },
     license="MIT",
     packages=["pylibjaredtokuz"],
-    install_requires=[],
+    install_requires=["python-dotenv"],
 )
